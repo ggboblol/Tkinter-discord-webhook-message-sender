@@ -6,7 +6,8 @@ When during execution you can also change the url with out terminating the progr
 To add more webhook urls modify the code the way you want and also taking help from [here](https://pypi.org/project/discord-webhook/)
 
 # Requirements
-This project works both in windows and linux
+This project works both in windows and linux.
+If in raspberry pi monitor required.
 
 **For Windows(works better in virtual environment like pycharm):**
   1. pip install discord-webhooks
@@ -27,6 +28,9 @@ https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
   3. Then add your discord webhook url to the `webhookurl.txt` file replacing the `YOUR WEBHOOK URL` text.(make sure there is no space or new line in the `webhookurl.txt` file after the url or it'll give error.)
   4. then if your in linux make it an executable file by typing in terminal `chmod +x main.py`.
   5. directly execute in windows and in linux type the command `sudo python3 main.py`.
+  # Troubleshooting
+1. If its not working try updating python3 `sudo apt install python3` again.
+2. Dont try executing the `main.py` file on terminal before making it an executable file, do it by doing the 4th line of procedure or you can try it on thonny editor without need for terminal.
   
   # Source
   https://pypi.org/project/discord-webhook/

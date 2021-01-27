@@ -9,6 +9,11 @@ To add more webhook urls modify the code the way you want and also taking help f
 This project works both in windows and linux.
 If in raspberry pi monitor required.
 
+**Basic knowledge of :**
+  1. python in linux or windows.
+  2. terminal in linux or windows(if your using).
+  3. and python apps.
+
 **For Windows(works better in virtual environment like pycharm):**
   1. pip install discord-webhooks
   2. pip install tkinter

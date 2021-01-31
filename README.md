@@ -41,4 +41,5 @@ https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
   https://pypi.org/project/discord-webhook/
   
   # More help or issue
-[Click here](https://github.com/thinker010/Discord-raspberry-pi-startup-notifier/issues)
+1. [Click here](https://github.com/thinker010/Tkinter-discord-webhook-message-sender/issues)
+2. ask in my discord dm thinker010#4451
